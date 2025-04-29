@@ -5,26 +5,32 @@ This project aims to analyze customer demographics and purchasing behavior to id
 # 📂 Dataset
 Source: Kaggle / Online Retail Data
 File: Cleaned_marketing_campaign.xlsx
-The dataset includes:
+- The dataset includes:
 Customer ID,Age,Income,Education Level,Marital Status,Purchasing Behavior
 # 🛠️ Tools Used
-Excel ➔ Data Cleaning
-Power BI ➔ Data Visualization
-PowerPoint ➔ Presentation
+- **Excel** ➔ Data Cleaning  
+- **Python** ➔ Data Processing  
+- **Power BI** ➔ Data Visualization  
+- **PowerPoint** ➔ Presentation
 # 📊 Key Insights
-High-Value Customers: Identified premium customers with high spending capacity.
-Target Groups: Segmented customers based on demographics and purchasing behavior.
-Customer Retention Strategy: Developed insights to improve customer loyalty.
+- Low Campaign Engagement: 79% of customers did not accept any campaigns, indicating a gap in offer relevance or targeting.
+- High-Value Segments Identified: "Best" and "Loyal" customers show the highest frequency and monetary value — major revenue 
+  contributors.
+- Dormant Customers: Over 30% are dormant, highlighting a significant opportunity for reactivation.
+- Demographics Matter: Graduates, PhDs, and Married/Together customers spend the most — particularly on Wines and Meat.
+- Revenue Drop Detected: Purchase activity peaked in 2013 and declined in 2014, signaling a need for strategic course 
+  correction.
+- Product Preferences: Wines, Meat, and Gold products drive the highest spending; cross-sell strategies should align accordingly.
 # 📊 Dashboard Highlights
 🚀 Key Metrics Visualized:
-✅ Total Customer Spend
-✅ Age Group Analysis
-✅ Income vs Spending Patterns
-✅ Segmentation by Marital Status, Education, etc.
+- ✅ RFM Segmentation
+- ✅ Campaign Performance
+- ✅ Customer Demographics
+- ✅ Spending Over Time.
 # ⚙️ How to Run
-Download the .pbix file from the PowerBI_Report folder.
-Open it in Power BI Desktop.
-Explore interactive visuals for detailed insights.
+- Download the .pbix file from the PowerBI_Report folder.
+- Open it in Power BI Desktop.
+- Explore interactive visuals for detailed insights.
 # 📢 Conclusion
-The analysis provides actionable insights to improve customer retention, target high-value segments, and drive personalized marketing strategies.
+This analysis uncovers critical insights into customer behavior, revealing that personalized marketing, targeted segmentation, and re-engagement strategies are essential for improving campaign effectiveness, boosting revenue, and driving long-term customer retention
 
