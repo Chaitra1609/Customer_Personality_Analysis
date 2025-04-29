@@ -1,7 +1,7 @@
 # 🧐 Customer Personality Analysis
 This project leverages data analysis techniques to identify customer segments, providing businesses with actionable insights for targeted marketing strategies
 # 📊 Project Overview
-This project aims to analyze customer demographics and purchasing behavior to identify key customer segments. The insights derived help businesses improve their marketing strategies, customer retention, and product offerings.
+This project analyzes customer demographics and purchasing behavior to uncover key customer segments. The insights help businesses enhance marketing effectiveness, improve customer retention, and tailor product offerings more precisely.
 # 📂 Dataset
 Source: Kaggle / Online Retail Data
 File: Cleaned_marketing_campaign.xlsx
